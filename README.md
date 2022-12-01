@@ -3,7 +3,7 @@
 ### coming to you daily until i give up.
 
 <b>log day 1:<br></b>
-<b>*12-1-22*<br>
+*12-1-22*<br>
 
 this is giving me the opportunity to become more familiar with .gitignore,<br>
 using virtual environments, and honing into my IDE preference. currently <br>
