@@ -5,22 +5,22 @@
 <b>log day 3:<br></b>
 *12-3-22*<br>
 
-this one felt like a return to the last previous couple of years,
-where i go in kind of a default mode to using loops like they're
-going out of style. i remember looking at the aoc subreddit and
-being super intimidated by the one line solutions or super 
-efficient solutions. i'm sure i could probably create the dictionary
-map and create that in a more clever way.
+this one felt like a return to the last previous couple of years,<br>
+where i go in kind of a default mode to using loops like they're<br>
+going out of style. i remember looking at the aoc subreddit and<br>
+being super intimidated by the one line solutions or super <br>
+efficient solutions. i'm sure i could probably create the dictionary<br>
+map and create that in a more clever way.<br>
 
-when i was originally writing part 1 here, i noticed that as 
-i loop through, there were certain letters in each of the strings
-that were appearing multiple times. this was causing my count to
-count multiple times. to get rid of this, i used the built-in set
-function which creates a set of all occurring characters, leaving
-out duplicates. 
+when i was originally writing part 1 here, i noticed that as <br>
+i loop through, there were certain letters in each of the strings<br>
+that were appearing multiple times. this was causing my count to<br>
+count multiple times. to get rid of this, i used the built-in set<br>
+function which creates a set of all occurring characters, leaving<br>
+out duplicates. <br>
 
-part 2 was very similar to part 1, but i had to do a little bit of
-math so the strings are indexed through properly.
+part 2 was very similar to part 1, but i had to do a little bit of<br>
+math so the strings are indexed through properly.<br>
 
 
 <b>log day 2:<br></b>
