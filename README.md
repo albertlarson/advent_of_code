@@ -2,6 +2,23 @@
 
 ### coming to you daily until i give up.
 
+
+<b>log day 4:<br></b>
+*12-4-22*<br>
+
+bit of a slog today, my foot is bothering me so working from the<br>
+living room makes it a little bit of a challenge. the beginning<br>
+is very much the same, dissect the input into strings as required.<br>
+once the numbers are extracted from the strings, it was just a <br>
+matter of coming up with the right query. i started with something<br>
+more complex with a bunch of ifs/elifs/else but realized that it <br>
+was actually a pretty simple math range problem.<br>
+
+the second part was mostly copy and paste. again, it's just a<br>
+different type of triggering based on the relationship between<br>
+the numbers in the input list. i found today to be more about<br>
+getting the data in the right form.<br>
+
 <b>log day 3:<br></b>
 *12-3-22*<br>
 
