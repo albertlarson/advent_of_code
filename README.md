@@ -3,6 +3,27 @@
 ### coming to you daily until i give up.
 
 
+<b>log day 5:<br></b>
+*12-5-22*<br>
+
+just like last year, the second week seems to be ratcheted up<br>
+it was a pain for me to get the boxes into a good place for<br>
+analysis and movement. it's probably because it's early in<br>
+the morning and i'm trying to dust off the cobwebs. once i<br>
+was able to get the letters into a dictionary, it was<br>
+relatively straightforward.<br>
+
+in part 2, i literally had to change one line. i guess i <br>
+wrote the code correctly, because the model of the CrateMover<br>
+changed from 9000 to 9001 just like the number of lines of<br>
+code that i modified.<br>
+
+it was nice to get to mess with dictionaries. i admittedly<br>
+haven't used them that much, but they seem to be useful when<br>
+trying to create variables in a loop which is generally frowned<br>
+upon using other methods.
+
+
 <b>log day 4:<br></b>
 *12-4-22*<br>
 
