@@ -2,6 +2,21 @@
 
 ### coming to you daily until i give up.
 
+<b>log day 6:<br></b>
+*12-6-22*<br>
+
+this one was fun. it was what i would characterize to be a <br>
+"convolution" problem. as the days go on, there is a thought<br>
+being reinforced as fact that enumerate is a tool that not<br>
+enough people are using all the time and they should be.<br>
+toughest part was getting the string into a form that it<br>
+could be easily counted, and then getting the count information<br>
+out of the counter. was happy to get to use match/case again.<br>
+
+once i got the first problem, the second one was just some simple<br>
+changes. it wasn't the most pythonic way to solve the problem,<br>
+but it works for me and wasn't a super long spaghetti script!
+
 
 <b>log day 5:<br></b>
 *12-5-22*<br>
